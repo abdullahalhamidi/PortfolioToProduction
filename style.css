@@ -1,0 +1,61 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+html, body {
+    height: 100vh;
+}
+.header {
+    background-image: url(img/pexels-photo-333850.jpeg);
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-position: center center;
+    height: 100vh;
+    width: 100%;
+    
+}
+
+.container-fluid {
+    position: absolute;
+    align-content: center center;
+    height: 100vh;
+    color: #ecc140;
+}
+
+.intro {
+    font-family: 'Source Code Pro', monospace;
+    letter-spacing: 3px;
+    font-weight: 700;
+    text-align: center;
+    padding-top: 40px;
+    padding: 390px 0px;
+}
+.par {
+    width: 50%;
+    margin: auto !important;
+}
+.uppercase {
+    text-transform: uppercase;
+    font-weight:bolder;
+    font-size: 3.2em;
+}
+
+.container-fluid {
+    margin: auto;
+    height: 100%;
+    padding: 3rem;
+    color: #bd7d22;
+}
+h1 {
+    font-weight:bolder;
+    margin: 0.4rem;
+    text-align: center;
+}
+h1 {
+    font-siz: 3.5rem;
+}
+.aboutMepar {
+    width: 46%;
+    margin: auto;
+    color: #bd7d22;
+}
